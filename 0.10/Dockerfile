@@ -15,6 +15,7 @@ RUN apk --update --progress --no-cache --repository http://dl-cdn.alpinelinux.or
     php7-fileinfo \
     php7-ftp \
     php7-iconv \
+    php7-imap \
     php7-json \
     php7-mbstring \
     php7-mysqlnd \
